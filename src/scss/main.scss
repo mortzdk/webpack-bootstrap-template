@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+@mixin test{
+    user-select: none;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    @include test;
+}
+h3{
+    user-select: none;
+}
