@@ -4,8 +4,7 @@ A simple webpack + bootstrap stub project.
 Added Bootstrap and some configs.
 
 # How to use it: 
-
-### install node_modules using: npm install
+Clone, open a terminal at the project root, execute `npm install`, then watch with `npm run start`;
 ### Scripts:
 ```
   npm run start 
