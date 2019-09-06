@@ -17,7 +17,7 @@ Added Bootstrap and some configs.
     <li>Put your images into the assets/img folder</li>
     <li>Put your scss into the scss folder(you can also use css files inside the src folder)</li>
     <li>Put your ES6+ scripts into the app folder then import then into the index.js</li>
-    <li>Put your  scripts into the src folder then import then into the index.js</li>
+    <li>Put your  scripts into the src folder then import them into the index.js</li>
     <li>Define your the page title in the config/webpack.common.config.js script, at the constructor of the HtmlWebpackPlugin</li>
 </ul>
 
